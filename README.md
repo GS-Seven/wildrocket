@@ -4,7 +4,7 @@
 
 ### 安装
 ```shell
-go get github.com/jeffcil/wildrocket
+go get github.com/jeffcail/wildrocket
 ```
 
 ### 目前支持的场景 - 持续封装中
