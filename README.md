@@ -22,7 +22,7 @@ go get github.com/jeffcail/wildrocket
 
 &#10004; orm (gorm、xorm)
 
-&#10004; 动态搜索+分页 （xorm）
+&#10004; 动态搜索+分页 （gorm）
 
 &#10004; oss (七牛云文件上传、分片上传、断点续传)
 
@@ -35,4 +35,4 @@ go get github.com/jeffcail/wildrocket
 &#10004; kafka 生产者、消费者
 
 
-<a href="http://meetme.caixiaoxin.cn:8900/" target="_blank">meetme</a>
+<a href="http://meetme.caixiaoxin.cn/" target="_blank">meetme</a>
