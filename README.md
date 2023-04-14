@@ -14,7 +14,7 @@ go get github.com/jeffcail/wildrocket
 
 &#10004; jwt认证
 
-&#10004; map操作  两个map合并
+&#10004; 并发安全map、 两个map合并
 
 &#10004; redis客户端初始化
 
