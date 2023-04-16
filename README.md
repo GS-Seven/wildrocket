@@ -8,7 +8,7 @@ go get github.com/jeffcail/wildrocket
 ```
 
 ### 目前支持的场景 - 持续封装中
-&#10004; 邮件发送 163
+&#10004; 邮件发送支持 163邮箱、QQ邮箱、126邮箱、Gmail邮箱
 
 &#10004; 常用加密 md5、sh1、文件md5、aes
 
