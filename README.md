@@ -42,6 +42,10 @@ go get github.com/jeffcail/wildrocket
 
 &#10004; 时间处理（时间格式化、时间计算）
 
+### 新增2.
+
+&#10004; rabbitmq客户端初始化 
+
 
 
 <a href="http://meetme.caixiaoxin.cn/" target="_blank">meetme</a>

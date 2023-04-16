@@ -38,6 +38,7 @@ require (
 	github.com/qiniu/go-sdk/v7 v7.14.0 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
 	github.com/spf13/cast v1.5.0 // indirect
+	github.com/streadway/amqp v1.0.0 // indirect
 	github.com/syyongx/go-wordsfilter v0.0.0-20190622081656-74232c786041 // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
 	github.com/xdg-go/scram v1.1.2 // indirect
