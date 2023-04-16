@@ -34,7 +34,12 @@ go get github.com/jeffcail/wildrocket
 
 &#10004; kafka 生产者、消费者
 
-&#10004; 新增敏感词过滤
+## ================================================
+### 新增1.
+&#10004; 邮件单元测试
+
+&#10004; 敏感词过滤
+
 
 
 <a href="http://meetme.caixiaoxin.cn/" target="_blank">meetme</a>
