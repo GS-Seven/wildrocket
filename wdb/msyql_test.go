@@ -19,3 +19,12 @@ func TestInitGormMysql(t *testing.T) {
 		fmt.Println(v)
 	}
 }
+
+func TestInitXormMysql(t *testing.T) {
+	dsn := "root:123456@tcp(127.0.0.1:3306)/jiaxiao?charset=utf8mb4&parseTime=True&loc=Local"
+	xorm, err := InitXormMysql(dsn, true)
+	if err != nil {
+		fmt.Println(err)
+	}
+	fmt.Println(xorm)
+}

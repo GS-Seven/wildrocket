@@ -46,6 +46,9 @@ go get github.com/jeffcail/wildrocket
 
 &#10004; rabbitmq客户端初始化 
 
+&#10004; 新增日志处理
+
+&#10004; xorm 客户端初始化
 
 
 <a href="http://meetme.caixiaoxin.cn/" target="_blank">meetme</a>

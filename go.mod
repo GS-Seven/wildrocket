@@ -16,6 +16,7 @@ require (
 	github.com/go-playground/universal-translator v0.18.1 // indirect
 	github.com/go-playground/validator/v10 v10.12.0 // indirect
 	github.com/go-sql-driver/mysql v1.7.0 // indirect
+	github.com/go-xorm/xorm v0.7.9 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
@@ -37,6 +38,7 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/qiniu/go-sdk/v7 v7.14.0 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
+	github.com/robfig/cron v1.2.0 // indirect
 	github.com/spf13/cast v1.5.0 // indirect
 	github.com/streadway/amqp v1.0.0 // indirect
 	github.com/syyongx/go-wordsfilter v0.0.0-20190622081656-74232c786041 // indirect
@@ -59,7 +61,10 @@ require (
 	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c // indirect
 	google.golang.org/grpc v1.41.0 // indirect
 	google.golang.org/protobuf v1.26.0 // indirect
+	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
 	gopkg.in/redis.v5 v5.2.9 // indirect
 	gorm.io/driver/mysql v1.5.0 // indirect
 	gorm.io/gorm v1.25.0 // indirect
+	xorm.io/builder v0.3.6 // indirect
+	xorm.io/core v0.7.2-0.20190928055935-90aeac8d08eb // indirect
 )
